@@ -56,7 +56,6 @@ Okay, so I asked myself. What is the information if I knew about an Open Source 
 - Reason for concern?
 - Security Benefits 
 - Vulnerabilities
-
 - Review articles
 - Praise articles  
 - Complain articles  
@@ -65,6 +64,5 @@ Okay, so I asked myself. What is the information if I knew about an Open Source 
 ### What are the creators of this thing like?
 
 - Other projects by the creators  
-
 - How to install  
 - Hello world
