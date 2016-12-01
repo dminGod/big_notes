@@ -10,20 +10,20 @@ Okay, so I asked myself. What is the information if I knew about an Open Source 
 
 ## What are the questions?
 
-# Basics
+### Basics
 
 - Project Name 
 - Version 
 - License
 - Released on
 
-# Whos behind it?
+### Whos behind it?
 
 - Organization that made it
 - Backed by known companies / individuals
 - Size of the community
 
-# What's the state of the project now?
+### What's the state of the project now?
 
 - Is the product in active development? (How many issues closed recently, How many merge requests closed recently, How many commits happened recently)
 - Is this project safe to put in production?
@@ -31,7 +31,7 @@ Okay, so I asked myself. What is the information if I knew about an Open Source 
 - Know big deployments and numbers
 
 
-# Lets talk business..
+### Lets talk business..
 
 - What is the use,  reason of existence. 
 - Plays well with what other relevant tools  
@@ -41,18 +41,18 @@ Okay, so I asked myself. What is the information if I knew about an Open Source 
 - Paid vs OS comparision if paid version exists 
 - Is this part of any ecosystem  
 
-# What weight class do you fight in?
+### What weight class do you fight in?
 
 - What is too big for tool scenario -- When would you definitely not use this tool
 - What are good data loads that this product handles
 - What is overkill scenario -- When this tool is just too big for the problem and shouldn't be used
 
 
-# How do you compare with others?
+### How do you compare with others?
 
 - Comparitive Benchmarks  
 
-# Red Flags
+### Red Flags
 - Reason for concern?
 - Security Benefits 
 - Vulnerabilities
@@ -62,7 +62,7 @@ Okay, so I asked myself. What is the information if I knew about an Open Source 
 - Complain articles  
 
 
-# What are the creators of this thing like?
+### What are the creators of this thing like?
 
 - Other projects by the creators  
 
