@@ -52,10 +52,16 @@ Okay, so I asked myself. What is the information if I knew about an Open Source 
 
 - Comparitive Benchmarks  
 
+### Whats the good stuff
+
+- Whats good about this?
+
 ### Red Flags
 - Reason for concern?
-- Security Benefits 
 - Vulnerabilities
+
+
+### What are others saying
 - Review articles
 - Praise articles  
 - Complain articles  
