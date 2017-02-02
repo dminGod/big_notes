@@ -72,3 +72,7 @@ Okay, so I asked myself. What is the information if I knew about an Open Source 
 - Other projects by the creators  
 - How to install  
 - Hello world
+
+
+## Projects we are covering in this Repository
+- [] Cassandra
